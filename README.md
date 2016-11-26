@@ -1,2 +1,2 @@
 # my-first-repo
-Ashymbekov Dastan
+GitHub repository
