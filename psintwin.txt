@@ -1,2 +1,3 @@
 eeeey in future i wil...
 ûמטמאטûגהכלמעמגûעמלעגכמעגלכûגה
+print("every man do this//")
